@@ -8,4 +8,5 @@ void main(){
     'Harry Potter' : '해리포터',
     'Ron Weasley' : '론 위즐리',
   };
+  print(dictionary2);
 }
